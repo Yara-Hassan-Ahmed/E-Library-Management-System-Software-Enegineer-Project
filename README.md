@@ -6,6 +6,7 @@ The E-Library Management System is a computerized system designed to manage the 
 # System Requirements
 
 Non-Functional Requirements
+
   Efficiency Requirement: The system should be efficient, and users should be able to access the E-Library easily and quickly.
   Reliability Requirement: The system should be reliable and perform accurate operations such as member account registration, validation, book transaction, and search.
   Usability Requirement: The system should be user-friendly, and users should be able to perform various tasks easily.
